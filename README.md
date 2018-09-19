@@ -1,7 +1,7 @@
 # Toggle variable header v1.1.4
 
 <br />
-<a href="http://zsoltkiraly.com/developments/toggle-variable-header/" target="_blank">DEMO PAGE</a>
+<a href="https://zsoltkiraly.com/developments/toggle-variable-header/" target="_blank">DEMO PAGE</a>
 
 #
 <br />
